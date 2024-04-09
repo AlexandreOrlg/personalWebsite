@@ -6,7 +6,6 @@
     import { fly,scale, fade } from 'svelte/transition';
     import ArrowUpRight from 'lucide-svelte/dist/svelte/icons/arrow-up-right.svelte'
 
-
     export const ssr = false;
 
     export let description
